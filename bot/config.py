@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5684461780:AAHcnn7uWyuYylGG3hH8L5dv6X3rbLkGruA"
+    APP_ID = "13550026"
+    API_HASH = "3250fb41bdbcda72119fb5064c3231b7"
+    DATABASE_URL = "postgres://plidajabotcudb:af744f55eed974bef291a42d15e47523cacf9041b9dcecaf559f1ae1533cbd5d@ec2-52-70-45-163.compute-1.amazonaws.com:5432/db2qlthnsoidr2"
+    SUDO_USERS = "5188723326" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
